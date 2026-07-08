@@ -43,3 +43,6 @@ The project includes:
 This project demonstrates practical experience with deep learning for computer vision, representation learning, latent variable models and experimental analysis of neural network behaviour.
 
 It is relevant to broader interests in machine learning, computer vision, model evaluation and reliable AI systems.
+
+## Academic Context
+This repository contains coursework developed for a Computer Vision class. It is shared as part of an academic portfolio.
